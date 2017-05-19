@@ -1,0 +1,57 @@
+#EXTM3U tvg-shift=0.2
+#EXTINF:-1,[COLOR red]            NZ TV playlist - by LinK [/COLOR]
+http://0.1.5.1:80
+##EXTINF:-1,[COLOR red]Some streams are Hax0rized![/COLOR]
+#http://0.1.5.1:80
+#EXTINF:-1 tvg-ID="freeviewnz.9" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ11280x1280.png?trim.threshold=1", 1 TVNZ 1
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=2&t=E.539deb4cccd0f44713ef8cf649f45af6.1495226645.2d1888da042df3afa8ed20a46613b7aff7c5a00b
+#EXTINF:-1 tvg-ID="freeviewnz.10" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ21280x1280.png?trim.threshold=1", 2 TVNZ 2 
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=3&t=E.539deb4cccd0f44713ef8cf649f45af6.1495226726.457d8fe42c2032216996d62c459357fc2fb1942b
+#EXTINF:-1 tvg-ID="freeviewnz.11" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_THREE_1280x1280.png?trim.threshold=1", 3 Three
+http://mworks-i.akamaihd.net/hls/live/247858/AES128/3812193411001/tv3_live/master_2000.m3u8|X-Forwarded-For=101.100.88.89
+#EXTINF:-1 tvg-ID="freeviewnz.12" tvg-logo="https://bytebucket.org/matthuisman/files/raw/master/logos/tv/12.png", 4 Bravo 
+http://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/Bravo_Live/master.m3u8?|X-Forwarded-For=219.88.222.95
+#EXTINF:-1 tvg-ID="freeviewnz.37" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/ChannelLogoforwebsite.png?trim.threshold=1",12 Choice TV 
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.539deb4cccd0f44713ef8cf649f45af6.1495226773.a641fb11691a3d896c8fe16964acdb31383b41b9
+#EXTINF:-1 tvg-ID="freeviewnz.55" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZDUKE1280x1280.png?trim.threshold=1",13 DUKE
+https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/Duke/playlist.m3u8?|X-Forwarded-For=101.100.88.89
+#EXTINF:-1 tvg-ID="freeviewnz.58" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/17.-HGTV_FreeviewWeb_1280x1280.png?trim.threshold=1",17 HGTV 
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=52&t=E.539deb4cccd0f44713ef8cf649f45af6.1495226830.add8c3d8f1dd90dab0a064e6698c3682f53ac164
+#EXTINF:-1 tvg-ID="freeviewnz.28" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Prime-2016-website.png?trim.threshold=1",10 PRIME 
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.539deb4cccd0f44713ef8cf649f45af6.1495226876.d997dd584106e2146badca6714655a05246850cd
+#EXTINF:-1 tvg-ID="freeviewnz.13" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/maori-tv.png?trim.threshold=1",5 Māori Television
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=8&t=E.539deb4cccd0f44713ef8cf649f45af6.1495226930.facb1b63a1bcd61e6456cef398baef8769c27d5f
+#EXTINF:-1 tvg-ID="freeviewnz.20" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png?trim.threshold=1",15 Te Reo
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=13&t=E.539deb4cccd0f44713ef8cf649f45af6.1495226975.21d656a07a88430d22d20ea6783331e80a5a744a
+#EXTINF:-1 tvg-ID="freeviewnz.51" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TheEdge-Web-1.png?trim.threshold=1",11 The Edge TV
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8?|X-Forwarded-For=101.100.88.89
+#EXTINF:-1,[COLOR yellow]Other via NZ local server[/COLOR]
+http://0.1.5.0:80
+#EXTINF:-1 tvg-ID="freeviewnz.18" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/parlament-tv.png?trim.threshold=1",31 Parliament TV
+http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
+#EXTINF:-1 tvg-ID="freeviewnz.21" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/ctv8.png?trim.threshold=1",28 Chinese TV 8
+http://live.936.nz:1935/live/ts.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-ID="freeviewnz.46" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/33-tv.png?trim.threshold=1",33 Television 33
+http://edge1.worldnettv.co.nz/live/tv33.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="freeviewnz.8" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/aljazeera.png?trim.threshold=1",16 Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+#EXTINF:-1 tvg-ID="freeviewnz.60" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png?trim.threshold=1",41 Wairarapa TV
+https://stream.wairarapatv.co.nz/playlist.m3u8
+#EXTINF:-1 tvg-ID="freeviewnz.45" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/tvsn.png?trim.threshold=1",20 TVSN Shopping
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+#EXTINF:-1 tvg-ID="freeviewnz.7" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/shine.png?trim.threshold=1",25 Shine TV
+http://rhema.streamguys1.com/live/smil:shinetv.smil/chunklist_w1926280642_b1280000.m3u8
+#EXTINF:-1 tvg-ID="freeviewnz.39" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/first-light-col.png?trim.threshold=1",26 Firstlight
+rtmp://streamer1.streamhost.org/salive/GMIFLNL
+#EXTINF:-1 tvg-ID="freeviewnz.56" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/HopeChannelFVweb.png?trim.threshold=1",27 Hope Channel
+http://bcliveuniv-lh.akamaihd.net/i/HopeInternational_1@193092/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.etv.org.nz/images/channel_logos/dw_english.jpg", DW English
+http://43.224.120.99:8080/dwenglish.m3u8
+#EXTINF:-1,[COLOR blue]Misc testing and experimental[/COLOR]
+http://0.1.5.1:80
+#EXTINF:-1,Ankhila Punjabi TV NZ (Official stream)
+http://wpc.c175.taucdn.net/hls-live/20C175/ankhilapunjabz/wmlkjkj5343utueuuwxssd/rbstreamrb.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36
+#EXTINF:-1,Fiji One (Official stream) needs livestream addon
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=&event_id=6947821&owner_id=19514369&video_id=LIVE&quot
+#EXTINF:-1,TV Tonga test (3pm to 12a.m) may not be working..
+http://letiotongaa3z.srfms.com/live/livestream_tbc1.flv/playlist.m3u8
