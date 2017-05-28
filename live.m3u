@@ -4,25 +4,25 @@ http://0.1.5.1:80
 ##EXTINF:-1,[COLOR red]Some streams are Hax0rized![/COLOR]
 #http://0.1.5.1:80
 #EXTINF:-1 tvg-ID="freeviewnz.9" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ11280x1280.png?trim.threshold=1", 1 TVNZ 1
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=2&t=E.539deb4cccd0f44713ef8cf649f45af6.1495762463.ebe0d7c52dc913262504571e8990028c32b186bb
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=2&t=E.539deb4cccd0f44713ef8cf649f45af6.1495944061.50548956b68e20aacee52b67338730e4881bade3
 #EXTINF:-1 tvg-ID="freeviewnz.10" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ21280x1280.png?trim.threshold=1", 2 TVNZ 2 
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=3&t=E.539deb4cccd0f44713ef8cf649f45af6.1495762520.af9a4b36e2014ae082fdc639dab285d9a0ee44f3
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=3&t=E.539deb4cccd0f44713ef8cf649f45af6.1495944117.5c18773f3a4efa2a1fc42cd2933d3e5f025db6c1
 #EXTINF:-1 tvg-ID="freeviewnz.11" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_THREE_1280x1280.png?trim.threshold=1", 3 Three
 http://mworks-i.akamaihd.net/hls/live/247858/AES128/3812193411001/tv3_live/master_2000.m3u8|X-Forwarded-For=101.100.88.89
 #EXTINF:-1 tvg-ID="freeviewnz.12" tvg-logo="https://bytebucket.org/matthuisman/files/raw/master/logos/tv/12.png", 4 Bravo 
 http://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/Bravo_Live/master.m3u8?|X-Forwarded-For=219.88.222.95
 #EXTINF:-1 tvg-ID="freeviewnz.37" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/ChannelLogoforwebsite.png?trim.threshold=1",12 Choice TV 
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.539deb4cccd0f44713ef8cf649f45af6.1495762565.ae8f766650a82e7a5799928ab03a5b8d285771fe
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.539deb4cccd0f44713ef8cf649f45af6.1495944164.9d61b3e74952fa6dfc255382d9d9d3fbec80c27b
 #EXTINF:-1 tvg-ID="freeviewnz.55" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZDUKE1280x1280.png?trim.threshold=1",13 DUKE
 https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/Duke/playlist.m3u8?|X-Forwarded-For=101.100.88.89
 #EXTINF:-1 tvg-ID="freeviewnz.58" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/17.-HGTV_FreeviewWeb_1280x1280.png?trim.threshold=1",17 HGTV 
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=52&t=E.539deb4cccd0f44713ef8cf649f45af6.1495762621.597926dc0a194451b3bcf5234dac89a1899ab127
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=52&t=E.539deb4cccd0f44713ef8cf649f45af6.1495944209.2d1d079d3d24abd0d6c9f6a9f640c83676c0cf7b
 #EXTINF:-1 tvg-ID="freeviewnz.28" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Prime-2016-website.png?trim.threshold=1",10 PRIME 
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.539deb4cccd0f44713ef8cf649f45af6.1495762722.f6bda22babfec55e5484970f83f4a61b72d66fdf
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.539deb4cccd0f44713ef8cf649f45af6.1495944309.ed826e15d5b2ab047444114371cf7464d8700448
 #EXTINF:-1 tvg-ID="freeviewnz.13" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/maori-tv.png?trim.threshold=1",5 Māori Television
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=8&t=E.539deb4cccd0f44713ef8cf649f45af6.1495762663.b5c06066973561a9a2dec470be1164934db0ca29
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=8&t=E.539deb4cccd0f44713ef8cf649f45af6.1495944262.ca9fe7769631288587e551cfe24aaae184d6524f
 #EXTINF:-1 tvg-ID="freeviewnz.20" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png?trim.threshold=1",15 Te Reo
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=13&t=E.539deb4cccd0f44713ef8cf649f45af6.1495762772.98d7c89dbe848782918b68494657a5c294d31b30
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=13&t=E.539deb4cccd0f44713ef8cf649f45af6.1495944350.1880b3d7172bf3dee3239906479515d616f5b767
 #EXTINF:-1 tvg-ID="freeviewnz.51" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TheEdge-Web-1.png?trim.threshold=1",11 The Edge TV
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8?|X-Forwarded-For=101.100.88.89
 #EXTINF:-1,[COLOR yellow]Other via NZ local server[/COLOR]
