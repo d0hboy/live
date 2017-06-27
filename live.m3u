@@ -55,3 +55,5 @@ http://wpc.c175.taucdn.net/hls-live/20C175/ankhilapunjabz/wmlkjkj5343utueuuwxssd
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=&event_id=6947821&owner_id=19514369&video_id=LIVE&quot
 #EXTINF:-1,Toonami
 http://adultswimhls-i.akamaihd.net/hls/live/249295-b/adultswim_6/main/1/stream_Layer4.m3u8
+#EXTINF:-1,Test
+http://prod.hdslive.skygo.co.nz/hds-live/ZONE/_definst_/ZONE.f4m
