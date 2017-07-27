@@ -55,8 +55,8 @@ http://43.224.120.99:8080/dwenglish.m3u8
 #plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=&event_id=6947821&owner_id=19514369&video_id=LIVE&quot
 ##EXTINF:-1,TV Tonga test (3pm to 12a.m) may not be working..
 #http://letiotongaa3z.srfms.com/live/livestream_tbc1.flv/playlist.m3u8
-##EXTINF:-1,[COLOR green]Adult Swim[/COLOR]
-#http://0.1.5.1:80
+#EXTINF:-1,[COLOR green]Adult Swim[/COLOR]
+http://0.1.5.1:80
 #EXTINF:-1,Toonami
 http://adultswimhls-i.akamaihd.net/hls/live/249295-b/adultswim_6/main/1/stream_Layer4.m3u8
 #EXTINF:-1,Williams
@@ -64,4 +64,4 @@ https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
 #EXTINF:-1,Animated Marathon
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_5.m3u8
 #EXTINF:-1,CN
-https://freeeucache4.streamlive.to/live/9l41fcr1sgmclej/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE3IDM6NDQ6MTkgUE0maGFzaF92YWx1ZT1kODdCTW84WS9BUUIzMFVwbUcwMm53PT0mdmFsaWRtaW51dGVzPTEwMjAmc3RybV9sZW49MjA=&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE3IDM6NDQ6MTkgUE0maGFzaF92YWx1ZT1kODdCTW84WS9BUUIzMFVwbUcwMm53PT0mdmFsaWRtaW51dGVzPTEwMjAmc3RybV9sZW49MjA=
+https://freeeucache4.streamlive.to/live/9l41fcr1sgmclej/index.m3u8
