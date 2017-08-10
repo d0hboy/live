@@ -4,7 +4,7 @@
 ##EXTINF:-1,[COLOR red]Some streams are Hax0rized![/COLOR]
 #http://0.1.5.1:80
 #EXTINF:-1 tvg-ID="freeviewnz.9" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ11280x1280.png?trim.threshold=1" group-title="Group 1", 1 TVNZ 1
-https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_3.m3u8
+https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/master.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.10" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ21280x1280.png?trim.threshold=1" group-title="Group 1", 2 TVNZ 2 
 https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_1.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.11" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_THREE_1280x1280.png?trim.threshold=1" group-title="Group 1", 3 Three
