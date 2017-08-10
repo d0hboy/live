@@ -9,7 +9,7 @@ https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/mast
 https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/master.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.11" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_THREE_1280x1280.png?trim.threshold=1" group-title="Group 1", 3 Three
 https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/tv3_live_https/master_2000.m3u8
-#EXTINF:-1 tvg-ID="freeviewnz.12" tvg-logo="https://bytebucket.org/matthuisman/files/raw/master/logos/tv/12.png" group-title="Group 1", 4 Bravo 
+#EXTINF:-1 tvg-ID="freeviewnz.12" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_FVsite_Bravo_1280x1280.png?w=140&h=90&mode=crop" group-title="Group 1", 4 Bravo 
 https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/bravo_live_https/master_1500.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.37" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/ChannelLogoforwebsite.png?trim.threshold=1",12 Choice TV 
 http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.539deb4cccd0f44713ef8cf649f45af6.1500864439.bb2000a5d39714072a7b2c413f098d4b1d29750d
