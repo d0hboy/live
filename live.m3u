@@ -65,7 +65,8 @@ https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_5.m3u8
 #EXTINF:-1,Boomerang (US)
 http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/24003.ts
-#EXTINF:-40,Rick and Morty
-http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/8676.m3u8
+#EXTINF:-1,Rick and Morty
+http://62.210.107.171:8080/e80622cb45a17625aeb34753b700c8a5411b43b593486097732774b7d7416491/hls/rick.m3u8
+#http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/8676.m3u8
 #EXTINF:-1 group-title="Attack On Titan",Attack on Titan S2e11 
 https://om126.cdn.oose.io/play/a201708108qEuwM2VUB8/video.mp4?start=0
