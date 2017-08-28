@@ -8,7 +8,7 @@ https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/mast
 #EXTINF:-1 tvg-ID="freeviewnz.10" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ21280x1280.png?trim.threshold=1" group-title="Group 1", 2 TVNZ 2 
 https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/master.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.11" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_THREE_1280x1280.png?trim.threshold=1" group-title="Group 1", 3 Three
-https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/tv3_live_https/master_2000.m3u8
+https://mworks-i.akamaihd.net/hls/live/251979/3812193411001/tv3-live-https/master-2000.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.12" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_FVsite_Bravo_1280x1280.png?w=140&h=90&mode=crop" group-title="Group 1", 4 Bravo 
 https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/bravo_live_https/master_1500.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.37" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/ChannelLogoforwebsite.png?trim.threshold=1",12 Choice TV 
