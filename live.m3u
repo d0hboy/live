@@ -3,26 +3,26 @@
 #http://0.1.5.1:80
 ##EXTINF:-1,[COLOR red]Some streams are Hax0rized![/COLOR]
 #http://0.1.5.1:80
-#EXTINF:-1 tvg-ID="tv.9" tvg-name="tv.9" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ11280x1280.png?trim.threshold=1" group-title="Group 1" url-epg="http://iptv.matthuisman.nz/nz/epg.xml", 1 TVNZ 1
+#EXTINF:-1 tvg-ID="freeviewnz.9" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ11280x1280.png?trim.threshold=1" group-title="Group 1" url-epg="http://iptv.matthuisman.nz/nz/epg.xml", 1 TVNZ 1
 https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/master.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.10" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ21280x1280.png?trim.threshold=1" group-title="Group 1", 2 TVNZ 2 
 https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/master.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.11" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_THREE_1280x1280.png?trim.threshold=1" group-title="Group 1", 3 Three
-https://mworks-i.akamaihd.net/hls/live/251979/3812193411001/tv3-live-https/master-2000.m3u8
+https://mworks-i.akamaihd.net/hls/live/251979/3812193411001/tv3-live-https/master.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.12" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_FVsite_Bravo_1280x1280.png?w=140&h=90&mode=crop" group-title="Group 1", 4 Bravo 
 https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/bravo_live_https/master_1500.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.37" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/ChannelLogoforwebsite.png?trim.threshold=1",12 Choice TV 
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.539deb4cccd0f44713ef8cf649f45af6.1500864439.bb2000a5d39714072a7b2c413f098d4b1d29750d
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.539deb4cccd0f44713ef8cf649f45af6.1504133362.451831def56d38b1db716687b15e473d5ee1a1eb
 #EXTINF:-1 tvg-ID="freeviewnz.55" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZDUKE1280x1280.png?trim.threshold=1" group-title="Group 1",13 DUKE
 https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/duke/master.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.58" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/17.-HGTV_FreeviewWeb_1280x1280.png?trim.threshold=1",17 HGTV 
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=52&t=E.539deb4cccd0f44713ef8cf649f45af6.1500864531.54724822360ffeecf27c92d4f7ff73397c61e905
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=52&t=E.539deb4cccd0f44713ef8cf649f45af6.1504133670.cc37d0fa3f6ff94667523aee76c3b33d60dbf126
 #EXTINF:-1 tvg-ID="freeviewnz.28" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Prime-2016-website.png?trim.threshold=1",10 PRIME 
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.539deb4cccd0f44713ef8cf649f45af6.1500864610.d381eed677f50848fc436d43781efe271340a9aa
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.539deb4cccd0f44713ef8cf649f45af6.1504133717.8cad556f7e959b2c022bee7e01afd333c9aa0352
 #EXTINF:-1 tvg-ID="freeviewnz.13" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/maori-tv.png?trim.threshold=1",5 Māori Television
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=8&t=E.539deb4cccd0f44713ef8cf649f45af6.1500864568.8addc75e685d50b929538d731e66d859b0c5534d
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=8&t=E.539deb4cccd0f44713ef8cf649f45af6.1504133770.09c603f777536b66a0d99194052d4b9023430af7
 #EXTINF:-1 tvg-ID="freeviewnz.20" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png?trim.threshold=1",15 Te Reo
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=13&t=E.539deb4cccd0f44713ef8cf649f45af6.1500864647.cc88a9114b6a9139d47d07db9d3a775dcbe91ea0
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=13&t=E.539deb4cccd0f44713ef8cf649f45af6.1504133822.f99e9d91d407f1584635416896bf5b3f03cb689f
 #EXTINF:-1 tvg-ID="freeviewnz.51" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TheEdge-Web-1.png?trim.threshold=1",11 The Edge TV
 https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/theedgetv_live_https/master.m3u8
 #EXTINF:-1,[COLOR yellow]Other via NZ local server[/COLOR]
@@ -63,9 +63,3 @@ http://adultswimhls-i.akamaihd.net/hls/live/249295-b/adultswim_6/main/1/stream_L
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
 #EXTINF:-1,Animated Marathon
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_5.m3u8
-#EXTINF:-1,Boomerang (US)
-http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/24003.ts
-#EXTINF:-100,Rick and Morty
-http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/8676.m3u8
-#EXTINF:-1 group-title="Attack On Titan",Attack on Titan S2e11 
-https://om126.cdn.oose.io/play/a201708108qEuwM2VUB8/video.mp4?start=0
