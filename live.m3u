@@ -57,7 +57,7 @@ http://43.224.120.99:8080/dwenglish.m3u8
 http://0.1.5.1:80
 #EXTINF:-1,Toonami
 http://adultswimhls-i.akamaihd.net/hls/live/249295-b/adultswim_6/main/1/stream_Layer4.m3u8
-#EXTINF:-1,Williams
-https://sv2.stream4free.live/dffb8357e7f91e0f8d91008867e612acc74a849b8e6b0dd6ee43a68648b57064/hls/rick.m3u8
+#EXTINF:-1,Steven Universe
+https://live.ponies.fr/hls/sug-hd/sug.m3u8
 #EXTINF:-1,Animated Marathon
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_5.m3u8
