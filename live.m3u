@@ -61,3 +61,7 @@ http://adultswimhls-i.akamaihd.net/hls/live/249295-b/adultswim_6/main/1/stream_L
 https://freeeucache1.streamlive.to/live/9l41fcr1sgmclej/live/9l41fcr1sgmclej/chunks.m3u8?nimblesessionid=136339714&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo0NjoyMyBQTSZoYXNoX3ZhbHVlPW9UeGFESkdlZjJuVW8vNnVyTU5tMVE9PSZ2YWxpZG1pbnV0ZXM9MTAwJnN0cm1fbGVuPTIw
 #EXTINF:-1,Animated Marathon
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_5.m3u8
+#EXTINF:-1,Rick and Morty
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,CODECS="avc1.580028,mp4a.40.2",RESOLUTION=1920x1080
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
