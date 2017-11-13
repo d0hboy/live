@@ -63,3 +63,5 @@ https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_5.m3u8
 #EXTINF:-1,Unknown
 https://freeeucache3.streamlive.to/live/9l41fcr1sgmclej/live/9l41fcr1sgmclej/chunks.m3u8?nimblesessionid=460259&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAxNyA5OjIxOjE0IEFNJmhhc2hfdmFsdWU9N1ZpZUxvbWYyN0N2RVdTb3lKNU5NZz09JnZhbGlkbWludXRlcz0xMDAwMDAmc3RybV9sZW49MjA=
+#EXTINF:-1,RandMTest
+hls://https://sv2.stream4free.live/8d97d064f80fb37705e855d6ea82e444b2e7607da625bc526543487c232fadbf/hls/rick.m3u8
