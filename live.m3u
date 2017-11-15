@@ -65,9 +65,9 @@ https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_5.m3u8
 http://0.1.5.1:80
 #EXTINF:-1,Rick and Morty
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=Axmys6HcoD8
-##EXTINF:-1,Steven Universe
-#http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=sWrZ0
+#EXTINF:-1,Steven Universe
+https://www.stream4free.live/90f03980-7f4a-4ed1-a312-adef5f0874b4
 ##EXTINF:-1,Adventure Time
 #http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=JDD56
-#EXTINF:-1,Regular Show
-http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=YxqlDv8Q5Ys
+##EXTINF:-1,Regular Show
+#http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=YxqlDv8Q5Ys
