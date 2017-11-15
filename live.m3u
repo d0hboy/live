@@ -66,7 +66,7 @@ http://0.1.5.1:80
 #EXTINF:-1,Rick and Morty
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=Axmys6HcoD8
 #EXTINF:-1,Steven Universe
-https://www.stream4free.live/90f03980-7f4a-4ed1-a312-adef5f0874b4
+http://127.0.0.1:58352
 ##EXTINF:-1,Adventure Time
 #http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=JDD56
 ##EXTINF:-1,Regular Show
