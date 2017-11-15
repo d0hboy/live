@@ -55,13 +55,19 @@ http://43.224.120.99:8080/dwenglish.m3u8
 #http://letiotongaa3z.srfms.com/live/livestream_tbc1.flv/playlist.m3u8
 #EXTINF:-1,[COLOR green]Adult Swim[/COLOR]
 http://0.1.5.1:80
-#EXTINF:-1,Toonami
-http://adultswimhls-i.akamaihd.net/hls/live/249295-b/adultswim_6/main/1/stream_Layer4.m3u8
+##EXTINF:-1,Toonami
+#http://adultswimhls-i.akamaihd.net/hls/live/249295-b/adultswim_6/main/1/stream_Layer4.m3u8
 #EXTINF:-1,Williams
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
 #EXTINF:-1,Animated Marathon
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_5.m3u8
-#EXTINF:-1,Unknown
-https://freeeucache3.streamlive.to/live/9l41fcr1sgmclej/live/9l41fcr1sgmclej/chunks.m3u8?nimblesessionid=460259&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAxNyA5OjIxOjE0IEFNJmhhc2hfdmFsdWU9N1ZpZUxvbWYyN0N2RVdTb3lKNU5NZz09JnZhbGlkbWludXRlcz0xMDAwMDAmc3RybV9sZW49MjA=
-#EXTINF:-1,Rick and Morty 24/7 (Youtube Stream)
+#EXTINF:-1,[COLOR Red]Youtube livestreams 24/7[/COLOR]
+http://0.1.5.1:80
+#EXTINF:-1,Rick and Morty
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=Axmys6HcoD8
+##EXTINF:-1,Steven Universe
+#http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=sWrZ0
+##EXTINF:-1,Adventure Time
+#http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=JDD56
+#EXTINF:-1,Regular Show
+http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=YxqlDv8Q5Ys
