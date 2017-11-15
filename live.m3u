@@ -64,4 +64,4 @@ https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_5.m3u8
 #EXTINF:-1,Unknown
 https://freeeucache3.streamlive.to/live/9l41fcr1sgmclej/live/9l41fcr1sgmclej/chunks.m3u8?nimblesessionid=460259&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAxNyA5OjIxOjE0IEFNJmhhc2hfdmFsdWU9N1ZpZUxvbWYyN0N2RVdTb3lKNU5NZz09JnZhbGlkbWludXRlcz0xMDAwMDAmc3RybV9sZW49MjA=
 #EXTINF:0,RandMTest
-http://127.0.0.1:58352
+http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=Axmys6HcoD8
