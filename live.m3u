@@ -12,15 +12,15 @@ https://livestreamdirect-bravo.mediaworks.nz/bravo-1500.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.55" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZDUKE1280x1280.png?trim.threshold=1" group-title="Group 1",13 DUKE
 https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/duke/master.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.37" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/ChannelLogoforwebsite.png?trim.threshold=1",12 Choice TV 
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.539deb4cccd0f44713ef8cf649f45af6.1510734578.e03cca6ca718c5fa99bdfbdaffcd3f27d01cc342
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.539deb4cccd0f44713ef8cf649f45af6.1510816739.1ae8cedb218c96a9e2ccbd91e3ebb9a5bc100215
 #EXTINF:-1 tvg-ID="freeviewnz.58" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/17.-HGTV_FreeviewWeb_1280x1280.png?trim.threshold=1",17 HGTV 
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=52&t=E.539deb4cccd0f44713ef8cf649f45af6.1510734632.7a1bedffbd717ab7646901be8b65d754678965c0
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=52&t=E.539deb4cccd0f44713ef8cf649f45af6.1510816872.dc432da2553d1c598ff89d54b238e92e8d079fae 
 #EXTINF:-1 tvg-ID="freeviewnz.28" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Prime-2016-website.png?trim.threshold=1",10 PRIME 
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.539deb4cccd0f44713ef8cf649f45af6.1510734672.3ec42904b41ae00c81eb9eeebf904ac65f5fcba9
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.539deb4cccd0f44713ef8cf649f45af6.1510816914.4b3c9ea8fb8ef5f8b4851a468f6e8452b664c1fd
 #EXTINF:-1 tvg-ID="freeviewnz.13" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/maori-tv.png?trim.threshold=1",5 Māori Television
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=8&t=E.539deb4cccd0f44713ef8cf649f45af6.1510734707.92f757acc2fc60ac0f1c0464f4c4b272fbaa8f72
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=8&t=E.539deb4cccd0f44713ef8cf649f45af6.1510816951.8668bb6e397d12ee58251bae2f5cdda7dc8780d7
 #EXTINF:-1 tvg-ID="freeviewnz.20" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png?trim.threshold=1",15 Te Reo
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=13&t=E.539deb4cccd0f44713ef8cf649f45af6.1510734742.86d7b4b2c450ae18c9544a887609c751155128ce
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=13&t=E.539deb4cccd0f44713ef8cf649f45af6.1510817017.6091c6e2fc2871129db09845d9adb1931ebd50b3
 #EXTINF:-1 tvg-ID="freeviewnz.51" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TheEdge-Web-1.png?trim.threshold=1",11 The Edge TV
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv-1500.m3u8
 #EXTINF:-1,[COLOR yellow]Other via NZ local server[/COLOR]
@@ -57,14 +57,14 @@ http://43.224.120.99:8080/dwenglish.m3u8
 http://0.1.5.1:80
 ##EXTINF:-1,Toonami
 #http://adultswimhls-i.akamaihd.net/hls/live/249295-b/adultswim_6/main/1/stream_Layer4.m3u8
-#EXTINF:-1,Williams
+#EXTINF:-1,Williams Stream
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
 #EXTINF:-1,Animated Marathon
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_5.m3u8
 #EXTINF:-1,[COLOR red]Youtube livestreams 24/7[/COLOR]
 http://0.1.5.1:80
 #EXTINF:-1,Rick and Morty
-http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=Axmys6HcoD8
+http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=lATpDHNrLwo
 ##EXTINF:-1,Ram(livestreaner)
 #http://127.0.0.1:58352
 ##EXTINF:-1,Adventure Time
