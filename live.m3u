@@ -12,15 +12,15 @@ https://livestreamdirect-bravo.mediaworks.nz/bravo-1500.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.55" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZDUKE1280x1280.png?trim.threshold=1" group-title="Group 1",13 DUKE
 https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/duke/master.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.37" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/ChannelLogoforwebsite.png?trim.threshold=1",12 Choice TV 
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.539deb4cccd0f44713ef8cf649f45af6.1510972220.074d7e816f7bb4f9361b97cf522deac8be48e4b5
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.539deb4cccd0f44713ef8cf649f45af6.1511069129.80c848c482b3c166db7751fa1e1d02cf48d4cf3b
 #EXTINF:-1 tvg-ID="freeviewnz.58" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/17.-HGTV_FreeviewWeb_1280x1280.png?trim.threshold=1",17 HGTV 
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=52&t=E.539deb4cccd0f44713ef8cf649f45af6.1510972292.3f93125a6cd27152b235bf168191c9f471f37d6c
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=52&t=E.539deb4cccd0f44713ef8cf649f45af6.1511069190.5a40c019673d789e617b0394b67fa50a73a1166e
 #EXTINF:-1 tvg-ID="freeviewnz.28" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Prime-2016-website.png?trim.threshold=1",10 PRIME 
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.539deb4cccd0f44713ef8cf649f45af6.1510972323.32f5b098c2e5ae0aa8a1b5615c915ac9924e55f2
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.539deb4cccd0f44713ef8cf649f45af6.1511069235.df848bc986f681a77fccd369b6b40e06de04ac9b
 #EXTINF:-1 tvg-ID="freeviewnz.13" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/maori-tv.png?trim.threshold=1",5 Māori Television
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=8&t=E.539deb4cccd0f44713ef8cf649f45af6.1510972358.2d1db36b6ee5d9f2968d01f9f4564c8661dbde59
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=8&t=E.539deb4cccd0f44713ef8cf649f45af6.1511069272.bc2e19be0ca051ea4cb66796bbe20da5e7a656b2
 #EXTINF:-1 tvg-ID="freeviewnz.20" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png?trim.threshold=1",15 Te Reo
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=13&t=E.539deb4cccd0f44713ef8cf649f45af6.1510972396.292ab2776564158e7b63ae1dfcb3aaaf8ed8122f
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=13&t=E.539deb4cccd0f44713ef8cf649f45af6.1511069311.27999242fa8d753cab9cd8c725a63354988417dd
 #EXTINF:-1 tvg-ID="freeviewnz.51" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TheEdge-Web-1.png?trim.threshold=1",11 The Edge TV
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv-1500.m3u8
 #EXTINF:-1,[COLOR yellow]Other via NZ local server[/COLOR]
