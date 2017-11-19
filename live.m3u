@@ -66,7 +66,7 @@ http://0.1.5.1:80
 #EXTINF:-1,Rick and Morty
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=YMDZPEyMygM
 #EXTINF:-1,Disney Cartoon Classics
-http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=3887bec1-0fb1-48b0-8370-3d5045c746ab
+http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=https://www.stream4free.live/the-big-bang-theory
 ##EXTINF:-1,Ram(livestreaner)
 #http://127.0.0.1:58352
 ##EXTINF:-1,Adventure Time
