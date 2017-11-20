@@ -65,8 +65,8 @@ https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_5.m3u8
 http://0.1.5.1:80
 #EXTINF:-1,Rick and Morty
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=YMDZPEyMygM
-#EXTINF:-1,Disney Cartoon Classic
-blob:https://www.stream4free.live/4f789415-a977-4751-92b6-c1bd9a0c42d7
+#EXTINF:-1,Disney Cartoon Classi
+https://sv2.stream4free.live/a06fbde22b7453841167689d9e9c5c2a815645492a1a86d8db5cc299ad28c6f6/hls/tbbangtheory.m3u8
 ##EXTINF:0,Ram(livestreaner)
 #http://127.0.0.1:58352
 ##EXTINF:-1,Adventure Time
