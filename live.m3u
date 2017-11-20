@@ -65,8 +65,8 @@ https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_5.m3u8
 http://0.1.5.1:80
 #EXTINF:-1,Rick and Morty
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=YMDZPEyMygM
-#EXTINF:-1,Disney Cartoon Classics
-http://edition.cnn.com/videos/tv/2016/11/13/exp-gps-1113-trump-foreign-policy-panel.cnn
+#EXTINF:-1,Disney Cartoon Classic
+blob:https://www.stream4free.live/4f789415-a977-4751-92b6-c1bd9a0c42d7
 ##EXTINF:0,Ram(livestreaner)
 #http://127.0.0.1:58352
 ##EXTINF:-1,Adventure Time
