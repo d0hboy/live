@@ -73,6 +73,9 @@ https://sv2.stream4free.live/a06fbde22b7453841167689d9e9c5c2a815645492a1a86d8db5
 #EXTINF:-1 group-title="new" tvg-name="501" tvg-id="radio.or.501" tvg-logo="https://cdn-radiotime-logos.tunein.com/s118792q.png" radio="true",Turanga FM
 http://apple.irirangi.net:8000/G_Turanga.aac
 
+#EXTINF:-1 tvg-name="502" tvg-id="radio.or.502" tvg-logo="https://cdn-radiotime-logos.tunein.com/s87384q.png" radio="true",Turanga FM
+http://apple.irirangi.net:8000/K_Ngati_Porou.aac
+
 #EXTINF:-1 tvg-name="001" tvg-id="radio.or.1" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.1.png" radio="true",The Rock
 http://iptv.matthuisman.nz/nz/radio.or.1.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
