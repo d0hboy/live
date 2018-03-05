@@ -70,7 +70,7 @@ https://sv2.stream4free.live/a06fbde22b7453841167689d9e9c5c2a815645492a1a86d8db5
 ##EXTINF:-1,Adventure Time
 #https://sv2.stream4free.live/b88e5ed9ad5f623899ecbd95aafba3b412dd64e61e8f44d6cf9006712099b7e6/hls/tbbangtheory.m3u8
 ##EXTINF:-1,Radio
-#EXTINF:-1 tvg-name="001" tvg-id="radio.or.1" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.1.png" radio="true",The Rock
+#EXTINF:-1 group-title="new" tvg-name="001" tvg-id="radio.or.1" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.1.png" radio="true",The Rock
 http://iptv.matthuisman.nz/nz/radio.or.1.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="002" tvg-id="radio.or.2" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.2.png" radio="true",More FM
