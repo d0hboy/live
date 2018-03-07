@@ -8,7 +8,7 @@ https://livestreamdirect-three.mediaworks.nz/three-2000.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.12" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_FVsite_Bravo_1280x1280.png?w=140&h=90&mode=crop", 4 Bravo 
 https://livestreamdirect-bravo.mediaworks.nz/bravo-1500.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.55" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZDUKE1280x1280.png?trim.threshold=1" group-title="Group 1",13 DUKE
-https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/duke/master.m3u8
+https://du7f1mbeu4v4z.cloudfront.net/out/v1/51affb968c664520849e74aa76856119/master_3.m3u8
 #EXTINF:-1 tvg-ID="freeviewnz.37" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/ChannelLogoforwebsite.png?trim.threshold=1",12 Choice TV 
 http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.539deb4cccd0f44713ef8cf649f45af6.1520411162.a7ebfc13f80c4c87daac0c0837898f142830dcc7
 #EXTINF:-1 tvg-ID="freeviewnz.58" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/17.-HGTV_FreeviewWeb_1280x1280.png?trim.threshold=1",17 HGTV 
