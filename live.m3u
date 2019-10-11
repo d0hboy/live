@@ -379,7 +379,7 @@ http://i.mjh.nz/nz/tv.51.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0
 http://i.mjh.nz/nz/tv.20.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 
 #EXTINF:-1 tvg-name="016" tvg-id="tv.28" tvg-logo="http://i.mjh.nz/nz/images/tv.28.png",Prime
-https://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.v5-513884.1568239521.80af8a01025ee619839c414fce4d521cd1496559
+https://sv2.data-stream.top/a4837b611047b53cb0c4b3c7ef7d0491a6bce98a1fe70729bee1b95b9dfc40ec/hls/adventure.m3u8
 
 #EXTINF:-1 tvg-name="017" tvg-id="tv.37" tvg-logo="http://i.mjh.nz/nz/images/tv.37.png",Choice TV
 https://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.v5-513884.1568239481.d7d5d9301d147a1f9cd1bb3a51b6906e0ab922c0
