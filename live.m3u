@@ -378,7 +378,7 @@ http://i.mjh.nz/nz/tv.51.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0
 #EXTINF:-1 tvg-name="009" tvg-id="tv.20" tvg-logo="http://i.mjh.nz/nz/images/tv.20.png",Te Reo
 http://i.mjh.nz/nz/tv.20.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 
-#EXTINF:-1 tvg-name="016" tvg-id="tv.28" tvg-logo="http://i.mjh.nz/nz/images/tv.28.png",Prime
+#EXTINF:-1 tvg-name="016" tvg-id="tv.28" tvg-logo="http://i.mjh.nz/nz/images/tv.28.png",Primes
 https://sv2.data-stream.top/a4837b611047b53cb0c4b3c7ef7d0491a6bce98a1fe70729bee1b95b9dfc40ec/hls/adventure.m3u8
 
 #EXTINF:-1 tvg-name="017" tvg-id="tv.37" tvg-logo="http://i.mjh.nz/nz/images/tv.37.png",Choice TV
