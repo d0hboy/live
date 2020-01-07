@@ -364,7 +364,7 @@ http://i.mjh.nz/nz/tv.11.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0
 http://i.mjh.nz/nz/tv.12.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 
 #EXTINF:-1 tvg-name="005" tvg-id="tv.13" tvg-logo="http://i.mjh.nz/nz/images/tv.13.png",Māori Television
-http://i.mjh.nz/nz/tv.13.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPadHigh.m3u8
 
 #EXTINF:-1 tvg-name="006" tvg-id="tv.65" tvg-logo="http://i.mjh.nz/nz/images/tv.65.png",ThreeLife
 http://i.mjh.nz/nz/tv.65.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
