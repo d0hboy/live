@@ -358,34 +358,34 @@ https://d2ce82tpc3p734.cloudfront.net/v1/manifest/b1f4432f8f95be9e629d97baabfed1
 https://d3vsmj0a4dgta4.cloudfront.net/master_3.m3u8
 
 #EXTINF:-1 tvg-name="003" tvg-id="tv.11" tvg-logo="http://i.mjh.nz/nz/images/tv.11.png",Three
-http://i.mjh.nz/nz/tv.11.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+https://livestreamdirect-three.mediaworks.nz/three-725.m3u8
 
 #EXTINF:-1 tvg-name="004" tvg-id="tv.12" tvg-logo="http://i.mjh.nz/nz/images/tv.12.png",Bravo
-http://i.mjh.nz/nz/tv.12.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+https://bravo-livestream.mediaworks.nz/index_1.m3u8
 
 #EXTINF:-1 tvg-name="005" tvg-id="tv.13" tvg-logo="http://i.mjh.nz/nz/images/tv.13.png",Māori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPadHigh.m3u8
 
 #EXTINF:-1 tvg-name="006" tvg-id="tv.65" tvg-logo="http://i.mjh.nz/nz/images/tv.65.png",ThreeLife
-http://i.mjh.nz/nz/tv.65.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+https://threelife-livestream.mediaworks.nz/index_2.m3u8
 
 #EXTINF:-1 tvg-name="007" tvg-id="tv.55" tvg-logo="http://i.mjh.nz/nz/images/tv.55.png",DUKE
 https://d1nyrbw5nj219v.cloudfront.net/master_3.m3u8
 
 #EXTINF:-1 tvg-name="008" tvg-id="tv.51" tvg-logo="http://i.mjh.nz/nz/images/tv.51.png",The Edge TV
-http://i.mjh.nz/nz/tv.51.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+https://bravo-livestream.mediaworks.nz/index_1.m3u8
 
 #EXTINF:-1 tvg-name="009" tvg-id="tv.20" tvg-logo="http://i.mjh.nz/nz/images/tv.20.png",Te Reo
-http://i.mjh.nz/nz/tv.20.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPadHigh.m3u8
 
 #EXTINF:-1 tvg-name="016" tvg-id="tv.28" tvg-logo="http://i.mjh.nz/nz/images/tv.28.png",Prime
-https://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.v5-521630.1578424219.d2a942b36c138c0c2e14a54a142c2a908f88f95b
+https://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.v5-513884.1582019388.a7c93a94b534552e864ba19b06d997e2a281bc2a
 
 #EXTINF:-1 tvg-name="017" tvg-id="tv.37" tvg-logo="http://i.mjh.nz/nz/images/tv.37.png",Choice TV
-https://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.v5-521630.1578424153.e0babe61bd318ab8226d594a07c62207aa65ca21
+https://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.v5-513884.1582019267.0e32101976912cb3e9287653e962b7be66c06dda
 
 #EXTINF:-1 tvg-name="018" tvg-id="tv.58" tvg-logo="http://i.mjh.nz/nz/images/tv.58.png",HGTV
-https://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=52&t=E.v5-521630.1578424272.eadbf713df0766acbdbcb2812947adf3b924b9b9
+https://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=52&t=E.v5-513884.1582019347.5ade5aade6563daad89943094933917e037d1607
 
 #EXTINF:-1 tvg-name="010" tvg-id="tv.46" tvg-logo="http://i.mjh.nz/nz/images/tv.46.png",Al Jazeera
 http://i.mjh.nz/nz/tv.46.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
