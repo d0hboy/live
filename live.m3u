@@ -351,7 +351,7 @@ http://i.mjh.nz/nz/radio.or.8.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%
 #EXTINF:-1 tvg-name="117" tvg-id="radio.or.9" tvg-logo="http://i.mjh.nz/nz/images/radio.or.9.png" radio="true",RDU
 http://i.mjh.nz/nz/radio.or.9|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 
-#EXTINF:-1 tvg-name="001" tvg-id="tv.9" tvg-logo="http://i.mjh.nz/nz/images/tv.9.png",TVNZ 1
+#EXTINF:-1 tvg-name="001" tvg-id="tv1.freeviewnz.tv" tvg-logo="http://i.mjh.nz/nz/images/tv.9.png",TVNZ 1
 https://d2ce82tpc3p734.cloudfront.net/v1/manifest/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/e7f27efa-6b52-45ff-8bad-ed9c2f66a8af/2.m3u8
 
 #EXTINF:-1 tvg-name="002" tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.10.png",TVNZ 2
