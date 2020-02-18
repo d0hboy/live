@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.org.nz/freeview.xml.gz"
+#EXTM3U x-tvg-url="https://nzxmltv.github.io/xmltv/guide.xml"
 
 #EXTINF:-1 tvg-name="001" tvg-id="radio.ih.6159" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6159.png" radio="true",Flava
 http://i.mjh.nz/nz/radio.ih.6159|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
