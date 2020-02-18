@@ -370,7 +370,7 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 http://i.mjh.nz/nz/tv.65.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 
 #EXTINF:-1 tvg-name="007" tvg-id="tv.55" tvg-logo="http://i.mjh.nz/nz/images/tv.55.png",DUKE
-http://i.mjh.nz/nz/tv.55.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+https://d1nyrbw5nj219v.cloudfront.net/master_3.m3u8
 
 #EXTINF:-1 tvg-name="008" tvg-id="tv.51" tvg-logo="http://i.mjh.nz/nz/images/tv.51.png",The Edge TV
 http://i.mjh.nz/nz/tv.51.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
