@@ -379,19 +379,19 @@ https://bravo-livestream.mediaworks.nz/index_1.m3u8
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPadHigh.m3u8
 
 #EXTINF:-1 tvg-name="016" tvg-id="tv.28" tvg-logo="http://i.mjh.nz/nz/images/tv.28.png",Prime
-https://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.v5-513884.1582019388.a7c93a94b534552e864ba19b06d997e2a281bc2a
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.539deb4cccd0f44713ef8cf649f45af6.1582103895.1c66ffecb85e8a7786795633658630ff9fef974b
 
 #EXTINF:-1 tvg-name="017" tvg-id="tv.37" tvg-logo="http://i.mjh.nz/nz/images/tv.37.png",Choice TV
-https://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.v5-513884.1582019267.0e32101976912cb3e9287653e962b7be66c06dda
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.539deb4cccd0f44713ef8cf649f45af6.1582103934.5cd495a2f525a5063b95c99a4cc828281d056e69
 
 #EXTINF:-1 tvg-name="018" tvg-id="tv.58" tvg-logo="http://i.mjh.nz/nz/images/tv.58.png",HGTV
-https://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=52&t=E.v5-513884.1582019347.5ade5aade6563daad89943094933917e037d1607
+http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=52&t=E.539deb4cccd0f44713ef8cf649f45af6.1582103803.2c7b5f328b3e1c774608545a309c5fd5b16c4226
 
 #EXTINF:-1 tvg-name="010" tvg-id="tv.46" tvg-logo="http://i.mjh.nz/nz/images/tv.46.png",Al Jazeera
-http://i.mjh.nz/nz/tv.46.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 #EXTINF:-1 tvg-name="011" tvg-id="tv.45" tvg-logo="http://i.mjh.nz/nz/images/tv.45.png",TVSN Shopping
-http://i.mjh.nz/nz/tv.45.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 
 #EXTINF:-1 tvg-name="012" tvg-id="tv.39" tvg-logo="http://i.mjh.nz/nz/images/tv.39.png",Firstlight
 rtmp://streamer1.streamhost.org/salive/GMIFLNL
