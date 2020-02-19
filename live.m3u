@@ -379,7 +379,7 @@ https://bravo-livestream.mediaworks.nz/index_1.m3u8
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPadHigh.m3u8
 
 #EXTINF:-1 tvg-name="016" tvg-id="tv.28" tvg-logo="http://i.mjh.nz/nz/images/tv.28.png",Prime
-https://i.mjh.nz/nz/tv.28.m3u8
+https://primetv-prod.akamaized.net/v1/prime-freeview-aes128_4.m3u8
 
 #EXTINF:-1 tvg-name="017" tvg-id="tv.37" tvg-logo="http://i.mjh.nz/nz/images/tv.37.png",Choice TV
 http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.539deb4cccd0f44713ef8cf649f45af6.1582103934.5cd495a2f525a5063b95c99a4cc828281d056e69
