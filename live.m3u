@@ -381,11 +381,11 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_i
 #EXTINF:-1 tvg-name="016" tvg-id="tv.28" tvg-logo="http://i.mjh.nz/nz/images/tv.28.png",Prime
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128_4.m3u8
 
-#EXTINF:-1 tvg-name="017" tvg-id="tv.37" tvg-logo="http://i.mjh.nz/nz/images/tv.37.png",Choice TV
-https://i.mjh.nz/nz/tv.37.m3u8
+#EXTINF:-1 tvg-name="017" tvg-id="tv.37" tvg-logo="http://i.mjh.nz/nz/images/tv.37.png",Choice TVs
+https://livestreams.e-cast.co.nz/choicetv/choicetv_1000k.m3u8
 
-#EXTINF:-1 tvg-name="018" tvg-id="tv.58" tvg-logo="http://i.mjh.nz/nz/images/tv.58.png",HGTV
-https://i.mjh.nz/nz/tv.58.m3u8
+#EXTINF:-1 tvg-name="018" tvg-id="tv.58" tvg-logo="http://i.mjh.nz/nz/images/tv.58.png",HGTVs
+https://livestreams.e-cast.co.nz/hgtv/hgtv_1000k.m3u8
 
 #EXTINF:-1 tvg-name="010" tvg-id="tv.46" tvg-logo="http://i.mjh.nz/nz/images/tv.46.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
@@ -406,4 +406,4 @@ https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-name="16" tvg-id="Rick.And.Morty" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.redbull.tv.png",Rick and Morty
-https://pcor3.manifest.auditude.com/auditude/live/as-jqX79_YeQkm3I9kHJYGAXA/1736/2469c2dd-0329-48fc-9202-657ff57ec3f8/aHR0cHM6Ly9hZHVsdHN3aW0tdm9kbGl2ZS5jZG4udHVybmVyLmNvbS9saXZlL3JpY2stYW5kLW1vcnR5L3N0cmVhbV80Lm0zdTg.m3u8?pttrackingversion=v2&ptassetid=as-jqX79_YeQkm3I9kHJYGAXA&ptdebug=false&u=ac217921a4a853e52310ebc459eef367&g=1000015&pttoken=true&z=131829&k=_fw_ae=725bd42fc9c9394e790b9a73610da431;stream=AS-desktop-streams;caid=as-jqX79_YeQkm3I9kHJYGAXA;vdur=0;_fw_ar=0;idfa=084D2F97-D6A5-41C6-90BB-4CDDE192ACBB;_fw_us_privacy=&ptcueformat=turner&live=true
+https://pcor3.manifest.auditude.com/auditude/live/as-jqX79_YeQkm3I9kHJYGAXA/1736/2469c2dd-0329-48fc-9202-657ff57ec3f8/aHR0cHM6Ly9hZHVsdHN3aW0tdm9kbGl2ZS5jZG4udHVybmVyLmNvbS9saXZlL3JpY2stYW5kLW1vcnR5L3N0cmVhbV80Lm0zdTg.m3u8?pttrackingversion=v2&ptassetid=as-jqX79_YeQkm3I9kHJYGAXA&ptdebug=false&u=ac217921a4a853e52310ebc459eef367&g=1000015&pttoken=true&z=131829&k=_fw_ae=725bd42fc9c9394e790b9a73610da431;stream=AS-desktop-streams;caid=as-jqX79_YeQkm3I9kHJYGAXA;vdur=0;_fw_ar=0;idfa=084D2F97-D6A5-41C6-90BB-4CDDE192ACBB;_fw_us_privacy=&ptcueformat=turner&live=true|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
