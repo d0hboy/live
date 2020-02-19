@@ -382,10 +382,10 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_i
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128_4.m3u8
 
 #EXTINF:-1 tvg-name="017" tvg-id="tv.37" tvg-logo="http://i.mjh.nz/nz/images/tv.37.png",Choice TV
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=12&t=E.539deb4cccd0f44713ef8cf649f45af6.1582103934.5cd495a2f525a5063b95c99a4cc828281d056e69
+https://i.mjh.nz/nz/tv.37.m3u8
 
 #EXTINF:-1 tvg-name="018" tvg-id="tv.58" tvg-logo="http://i.mjh.nz/nz/images/tv.58.png",HGTV
-http://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=52&t=E.539deb4cccd0f44713ef8cf649f45af6.1582103803.2c7b5f328b3e1c774608545a309c5fd5b16c4226
+https://i.mjh.nz/nz/tv.58.m3u8
 
 #EXTINF:-1 tvg-name="010" tvg-id="tv.46" tvg-logo="http://i.mjh.nz/nz/images/tv.46.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
