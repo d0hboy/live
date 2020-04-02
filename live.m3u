@@ -355,7 +355,7 @@ http://i.mjh.nz/nz/radio.or.9|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0
 https://livestreams.e-cast.co.nz/tv1/tv1_1000k.m3u8
 
 #EXTINF:-1 tvg-name="002" tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.10.png",TVNZ 2
-https://d3vsmj0a4dgta4.cloudfront.net/master_15.m3u8
+https://livestreams.e-cast.co.nz/tv2/tv2_1000k.m3u8
 
 #EXTINF:-1 tvg-name="003" tvg-id="tv.11" tvg-logo="http://i.mjh.nz/nz/images/tv.11.png",Three
 https://livestreamdirect-three.mediaworks.nz/three-725.m3u8
