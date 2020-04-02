@@ -370,7 +370,7 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 https://threelife-livestream.mediaworks.nz/index_2.m3u8
 
 #EXTINF:-1 tvg-name="007" tvg-id="tv.55" tvg-logo="http://i.mjh.nz/nz/images/tv.55.png",DUKE
-https://d1nyrbw5nj219v.cloudfront.net/master_3.m3u8
+https://livestreams.e-cast.co.nz/duke/duke_1000k.m3u8
 
 #EXTINF:-1 tvg-name="008" tvg-id="tv.51" tvg-logo="http://i.mjh.nz/nz/images/tv.51.png",The Edge TV
 https://bravo-livestream.mediaworks.nz/index_1.m3u8
