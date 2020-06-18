@@ -406,5 +406,4 @@ https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-name="019" tvg-id="tv.019" tvg-logo="https://www.freepnglogos.com/uploads/rick-and-morty-png/rick-and-morty-portal-moon-mod-download-35.png",Rick and Morty
-https://pcor4.manifest.auditude.com/auditude/live/as-jqX79_YeQkm3I9kHJYGAXA/1736/dd6b76a8-f01b-4bb9-870a-84a42a99dfb4/aHR0cHM6Ly9hZHVsdHN3aW0tdm9kbGl2ZS5jZG4udHVybmVyLmNvbS9saXZlL3JpY2stYW5kLW1vcnR5L3N0cmVhbV80Lm0zdTg.m3u8?pttrackingversion=v2&ptassetid=as-jqX79_YeQkm3I9kHJYGAXA&ptdebug=false&u=ac217921a4a853e52310ebc459eef367&g=1000015&pttoken=true&z=131829&k=_fw_ae=725bd42fc9c9394e790b9a73610da431;stream=AS-desktop-streams;caid=as-jqX79_YeQkm3I9kHJYGAXA;vdur=0;_fw_ar=0;idfa=084D2F97-D6A5-41C6-90BB-4CDDE192ACBB;_fw_us_privacy=&ptcueformat=turner&live=true
-
+http://192.168.1.24:8080
