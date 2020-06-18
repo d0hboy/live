@@ -406,4 +406,4 @@ https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:0 tvg-name="019" tvg-id="tv.019" tvg-logo="https://www.freepnglogos.com/uploads/rick-and-morty-png/rick-and-morty-portal-moon-mod-download-35.png",Rick and Morty
-rtsp://192.168.1.24:8554/|User-Agent=VLC
+http://192.168.1.24:8080|User-Agent=VLC
