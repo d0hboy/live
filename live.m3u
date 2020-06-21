@@ -409,4 +409,4 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://192.168.1.24:8080|User-Agent=VLC
 
 #EXTINF:0 tvg-name="020" tvg-id="tv.020",Test
-http://192.168.1.24:8081|User-Agent=VLC
+http://192.168.1.4:8081|User-Agent=VLC
