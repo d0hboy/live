@@ -1,4 +1,4 @@
-##EXTM3U x-tvg-url="https://nzxmltv.github.io/xmltv/guide.xml"
+###EXTM3U x-tvg-url="https://nzxmltv.github.io/xmltv/guide.xml"
 
 #EXTINF:-1 tvg-name="001" tvg-id="radio.ih.6159" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6159.png" radio="true",Flava
 http://i.mjh.nz/nz/radio.ih.6159|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
@@ -352,7 +352,8 @@ http://i.mjh.nz/nz/radio.or.8.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%
 http://i.mjh.nz/nz/radio.or.9|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 
 #EXTINF:-1 tvg-name="001" tvg-id="tv1.freeviewnz.tv" tvg-logo="http://i.mjh.nz/nz/images/tv.9.png",TVNZ 1
-https://livestreams.e-cast.co.nz/tv1/tv1_1000k.m3u8
+###https://livestreams.e-cast.co.nz/tv1/tv1_1000k.m3u8
+https://i.mjh.nz/nz/tv.9.m3u8
 
 #EXTINF:-1 tvg-name="002" tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.10.png",TVNZ 2
 https://livestreams.e-cast.co.nz/tv2/tv2_1000k.m3u8
